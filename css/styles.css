@@ -33,5 +33,11 @@ h1 {
 }
 /* download buttons */
 .download-button {
+  font-family: sans-serif;
   margin: 5% 3% 5% 0;
+}
+/* title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
 }
