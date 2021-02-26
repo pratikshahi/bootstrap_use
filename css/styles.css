@@ -21,7 +21,7 @@ p {
   color: white;
 }
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 /* navigation bar */
 .navbar {
@@ -46,12 +46,16 @@ p {
 }
 /* title image */
 .title-image {
-  width: 60%;
+  width: 21%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 26%;
 }
 /* Features section */
 #features {
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
 }
 .feature-box {
   text-align: center;
