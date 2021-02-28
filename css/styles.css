@@ -31,6 +31,14 @@ p {
 .container-fluid {
   padding: 7% 15%;
 }
+/* SECTINS */
+.coloured-section {
+  background-color: #ff4c68;
+  color: white;
+}
+.white-section {
+  background-color: white;
+}
 /* navigation bar */
 .navbar {
   padding: 0 0 4.5rem;
@@ -55,8 +63,6 @@ p {
 /* Title section */
 
 #title {
-  background-color: #ff4c68;
-  color: white;
   text-align: left;
 }
 #title .container-fluid {
@@ -71,7 +77,6 @@ p {
 }
 /* Features section */
 #features {
-  background-color: white;
   position: relative;
 }
 .feature-title {
@@ -90,7 +95,6 @@ p {
 /* Testimonials section */
 #testimonials {
   background-color: #ef8172;
-  color: white;
 }
 .testimonial-text {
   font-size: 3rem;
@@ -118,10 +122,6 @@ p {
   padding: 3% 2%;
 }
 /* CTA section */
-#cta {
-  background-color: #ff4c68;
-  color: white;
-}
 
 .social-icon {
   margin: 20px 10px;
